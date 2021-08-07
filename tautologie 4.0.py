@@ -297,11 +297,8 @@ def testvaluta():
 def main():
     while(True):
         global checkAssegnamenti
-        checkAssegnamenti = False
-        #testparentesi()
+        checkAssegnamenti = False        
         testvalore()
-        #testcomputa()
-        #testvaluta()
         if input("Continua? y/n") !="y": break
     
 
