@@ -14,5 +14,6 @@ Logical operators are considered as it follows:
 
 Variables can be named as you want, but they shall not contain spaces. 
 Each sub proposiion should be written between brackets as a mathematical expression, for instance: 
-( (A) & (B) ) % (A)
+( (A) & (B) ) % (A).
+
 This rule does not apply to negations. For instance: (!A) % (A).
